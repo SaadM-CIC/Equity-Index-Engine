@@ -1,4 +1,4 @@
-# Equity Index Construction & Backtesting Engine
+# Equity Index Framework (Construction, Backtesting, Performances/Metrics)
 
 Un moteur complet en Python pour construire, rééquilibrer et backtester un indice actions (Equity Index), de l'acquisition des données à l'évaluation de la performance risque-rendement.
 
